@@ -1,0 +1,11 @@
+const IMAGE_DATA = [
+    { id: 1, src: '/assets/images/arabian-ranches.jpg', alt: 'Image 1', title: 'Arabian Ranches', description: 'Arabian Ranches offers a modern interpretation of the soothing charm of the surrounding desertscape. The development features a number of residential communities that draw inspiration from Spanish and Arabian architecture.' },
+    { id: 2, src: '/assets/images/arabian-ranches-ii.jpg', alt: 'Image 2', title: 'Arabian Ranches II', description: 'Arabian Ranches offers a modern interpretation of the soothing charm of the surrounding desertscape. The development features a number of residential communities that draw inspiration from Spanish and Arabian architecture.' },
+    { id: 3, src: '/assets/images/downtown-dubai.jpg', alt: 'Image 3', title: 'Downtown Dubai', description: 'The Centre of Now. The most prestigious square kilometre in the world. Downtown Dubai is no stranger to such accolades, and yet it’s hard to overstate the prominence of this community.' },
+    { id: 4, src: '/assets/images/dubai-hills-estate.jpg', alt: 'Image 4', title: 'Dubai Hills Estate', description: 'Sustainably designed, Dubai Hills Estate is a first of its kind destination. This masterfully-planned 2,700-acre multi-purpose development will form an integral part of the Mohammed Bin Rashid City.' },
+    { id: 5, src: '/assets/images/dubai-marina.png', alt: 'Image 5', title: 'Dubai Marina', description: 'Dubai Marina is one of the world’s largest, most meticulously planned waterfront developments and offers the exhilaration and vibrancy of a chic, urban lifestyle together with all the advantages of living on the water.' },
+    { id: 6, src: '/assets/images/emirates-living.jpg', alt: 'Image 6', title: 'Emirates Living', description: 'Launched in 2003, Emirates Living is a modern lifestyle community focused on outdoor leisure. Emirates Living offers a serene nature-filled sanctuary, with 8,659 premium villas nestled within 52.2 million square feet of lush greenery.' },
+  ];
+  
+  export default IMAGE_DATA;
+  
